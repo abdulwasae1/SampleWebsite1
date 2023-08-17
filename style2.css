@@ -1,0 +1,156 @@
+.font-style {
+    background-color: rgb(208, 208, 28); 
+    border: none;
+    text-align: right;
+    color: aliceblue;
+}
+.button-style1 {
+    background: none;
+    border: none;
+    color: rgb(174, 174, 174);
+    margin: 0.5%;
+    margin-top: 55px;
+    cursor: pointer;
+}
+.button-style1:hover {
+  color: #f7d203;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:xx-large;
+  }
+  .yellow { 
+    color: #f7d203; 
+  }
+  .centered-text{
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+  }
+  .navbar-style{
+    height: 130px; 
+    background-color: black; 
+    margin-top: 8px; 
+    margin-left: -0.5%; 
+    margin-right: -0.5%;
+  }
+  .float-left {
+    float: left;
+    margin-top: 50px;
+ }
+ .centered-text2{
+  text-align: center;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+.margin-left{
+  margin-left: 130px;
+}
+.button-style2{
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+.desc-margin1{
+  position: absolute; 
+  margin-left: -60px;
+  margin-right: 1140px;
+}
+.desc-margin2{
+  position: absolute; 
+  margin-left: -55px;
+  margin-right: 810px;
+}
+.desc-margin3{
+  position: absolute; 
+  margin-left: -45px;
+  margin-right: 480px;
+}
+.ordernowBtn{
+  cursor: pointer;
+  margin-top: 150px;
+  margin-right: 40px;
+  border-color: rgb(251, 99, 4);
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  padding-left: 60px;
+  padding-right: 65px;
+  background-image: linear-gradient(rgb(250, 242, 4), rgb(251, 144, 4));
+}
+.list-item-styles{
+  padding-bottom: 10px; 
+  list-style-type: 4;
+}
+.features{
+  text-align: left; 
+  float: left; 
+  margin-left: -60px;
+}
+.wheelchair{
+  text-align: left; 
+  float: left; 
+  margin-left: 110px;
+}
+.notice{
+  background-color: rgb(215, 180, 5); 
+  margin-top: 400px; 
+  margin-left: 450px; 
+  margin-right: 450px; 
+  padding: 1px; 
+  padding-left: 40px; 
+  padding-right: 40px; 
+  font-size: large;
+}
+.caritems{
+  background-color: rgb(222, 221, 221); 
+  height: 330px; 
+  width: 1900px; 
+  margin-left: -0.3%;
+}
+.itemMargins{
+  float: left; 
+  margin-top: 50px; 
+  margin-left: 20px;
+}
+.itemButtons{
+  border: none; 
+  background: none; 
+  cursor: pointer;
+}
+.subfooter{
+  background-color: rgb(71, 70, 70); 
+  height: 100px; 
+  margin-left: -8px; 
+  margin-right: -8px;
+}
+.subfHeading{
+  float: left; 
+  margin-top: 37px; 
+  color: aliceblue; 
+  margin-left: 450px;
+}
+.rideruni{
+  margin-top: 12px;
+  margin-left: 150px; 
+  float: left;
+}
+.footerH1{
+  margin-left: 450px; 
+  float: left; 
+  color: rgb(92, 94, 94);
+}
+.footerH2{
+  float: left; 
+  color: rgb(92, 94, 94);
+  margin-left: 230px;
+}
